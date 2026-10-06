@@ -14,3 +14,28 @@ main {
     padding: 10px;
     box-shadow: 3px 3px 5px rgb(0, 0, 0.473);
 }
+
+h1 {
+    font-size: 1.5cm;
+    color: rgb(0, 0, 0);
+}
+
+h2 {
+    font-size: 1cm;
+    color: rgb(131, 0, 0);
+}
+
+img.truck {
+   width: 500px;
+   height: 200px;
+}
+
+img.pasta {
+    width: 100px;
+    height: 100px;
+}
+
+img.wpp {
+    width: 70px;
+    height: 70px;
+}
