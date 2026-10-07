@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: aquamarine;
+    background-color: rgb(1, 51, 36);
 }
 
 main {
@@ -23,6 +23,7 @@ h1 {
 h2 {
     font-size: 1cm;
     color: rgb(131, 0, 0);
+    font-family:'Times New Roman', Times, serif
 }
 
 img.truck {
