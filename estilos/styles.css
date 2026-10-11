@@ -25,11 +25,14 @@ main {
 h1 {
     font-size: 1.5cm;
     color: rgb(0, 0, 0);
+    margin: auto;
+    padding: 30px;
+    
 }
 
 h2 {
     font-size: 1cm;
-    color: rgb(255, 0, 0);
+    color: rgb(15, 53, 1);
     font-family:'Times New Roman', Times, serif
 }
 
@@ -39,8 +42,12 @@ img.truck {
 }
 
 img.pasta {
+    display: flex;
+    align-items: center;
+    gap: 20px;
     width: 100px;
-    height: 100px;
+    border-radius: 8px;
+    height: auto;
     margin: 5px;
     padding: 10px;
 }
