@@ -41,6 +41,18 @@ img.truck {
    height: 200px;
 }
 
+.card-flex {
+    display: flex;
+    align-items: center;
+    gap: 20px ;
+}
+
+.texto-conteudo {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
 img.pasta {
     display: flex;
     align-items: center;
@@ -48,7 +60,7 @@ img.pasta {
     width: 100px;
     border-radius: 8px;
     height: auto;
-    margin: 5px;
+    margin: 10px;
     padding: 10px;
 }
 
