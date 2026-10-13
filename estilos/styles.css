@@ -70,3 +70,22 @@ img.wpp {
     margin: 5px;
     padding: 10px;
 }
+
+.botao {
+    display: inline-block;
+    padding: 10px 25px;
+
+    background-color: darkgreen;
+    color: white;
+
+    text-decoration: none;
+    border-radius: 30px;
+    text-align: center;
+
+    transition: 0.3s;
+}
+
+.botao:hover {
+    background-color: rgb(4, 221, 4);
+    transform: scale(1.05);
+}
